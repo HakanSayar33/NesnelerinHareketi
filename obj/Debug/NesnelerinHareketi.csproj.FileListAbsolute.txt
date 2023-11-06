@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\bin\Debug\NesnelerinHareketi.exe.config
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\bin\Debug\NesnelerinHareketi.exe
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\bin\Debug\NesnelerinHareketi.pdb
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.Form1.resources
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.Properties.Resources.resources
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.exe
+C:\Users\asus\Desktop\gitHub Projeler\8-NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.pdb
